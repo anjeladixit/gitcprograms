@@ -58,4 +58,5 @@ int main()
     printf("%d",pop(arr,4));
     printf("\n");
      print(arr,3);
+    printf("ending");
 }
