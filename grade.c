@@ -21,7 +21,7 @@ int main()
     break;
 
   default :
-    printf("D");
+    printf("E");
     break;
   }
   printf("end");
