@@ -18,5 +18,6 @@ int main()
         printf("prime");
       }
     }
+    printf ("thank you for prime ");
 }
 //prime no. finder 

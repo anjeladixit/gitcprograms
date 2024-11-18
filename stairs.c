@@ -13,9 +13,9 @@ int stair(int n)
 
 int main()
 {
-    int n;
+    int k;
     printf("enter stair numbers");
-    scanf("%d",&n);
-    int ways=stair(n);
+    scanf("%d",&k);
+    int ways=stair(k);
     printf("%d",ways);
 }
