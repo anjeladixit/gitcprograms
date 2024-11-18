@@ -1,4 +1,5 @@
 #include<stdio.h>
+//decreasing 
 void decreasing(int n)
 {
     if (n==0)
