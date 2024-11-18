@@ -14,5 +14,6 @@ int main()
     i++;
    }
    printf("%d",word);
+   printf("thank you!");
 }
 
