@@ -51,6 +51,7 @@ int  pop(int arr[],int n)
 }
 int main()
 {
+    printf("start");
     int arr[4]={4,3,2,1};
     buildheap(arr,4);
     print(arr,4);
