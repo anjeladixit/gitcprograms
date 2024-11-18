@@ -66,6 +66,7 @@ int height(struct node* root)
     
     }
 }
+//code for sym 
 int main()
 
 {
