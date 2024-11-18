@@ -2,6 +2,7 @@
 
 int main()
 { int b;
+ printf("start of main");
   printf("enter a marks ",b);
   scanf("%d",&b);
 
