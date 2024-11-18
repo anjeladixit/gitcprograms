@@ -18,3 +18,4 @@ int main()
       }
     }
 }
+//prime no. finder 

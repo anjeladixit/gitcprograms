@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main()
 { int b;
   printf("enter a marks ",b);
@@ -23,3 +24,4 @@ int main()
     break;
   }
 } 
+//to see grade of childeren 
