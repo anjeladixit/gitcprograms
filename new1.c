@@ -6,4 +6,5 @@ int main()
     int b=30;
     printf("%d",20*30);
     printf("%d",20-30);
+  
 }
