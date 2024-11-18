@@ -23,5 +23,6 @@ int main()
     printf("D");
     break;
   }
+  printf("end");
 } 
 //to see grade of childeren 
