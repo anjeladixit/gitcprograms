@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+//sym tree 
 struct node{
     int data;
     struct node* left;
