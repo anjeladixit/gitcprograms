@@ -2,6 +2,7 @@
 int main()
 {
     int a;
+    int b;
     int i=2;
     int b;
     printf("enter",a);
